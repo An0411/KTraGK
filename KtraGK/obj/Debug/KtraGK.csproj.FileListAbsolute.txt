@@ -1,0 +1,10 @@
+C:\Users\MSI\source\repos\KtraGK\KtraGK\bin\Debug\KtraGK.exe.config
+C:\Users\MSI\source\repos\KtraGK\KtraGK\bin\Debug\KtraGK.exe
+C:\Users\MSI\source\repos\KtraGK\KtraGK\bin\Debug\KtraGK.pdb
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.csproj.AssemblyReference.cache
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.Form1.resources
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.Properties.Resources.resources
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.csproj.GenerateResource.cache
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.csproj.CoreCompileInputs.cache
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.exe
+C:\Users\MSI\source\repos\KtraGK\KtraGK\obj\Debug\KtraGK.pdb
